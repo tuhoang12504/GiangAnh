@@ -6,7 +6,7 @@ const CONFIG = {
     Đó là: vua thì "thường anh minh",
     còn em thì ngược lại: "mình anh thương"🥰.`,
     btnIntro: '^^Èo^^',
-    title: 'Đồng ý làm hậu phương cho anh nha 🥰',
+    title: 'Đồng ý làm hậu phương của anh nha 🥰',
     desc: 'Lỡ thích người ta mất ròi á',
     btnYes: 'Em Đồng Ý <33',
     btnNo: 'Không Nha :3',
